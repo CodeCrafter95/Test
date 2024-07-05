@@ -1,5 +1,5 @@
 <?php
-//A random Code for the request to the API. Great
+//A random Code for the request to the API. Great.
 $random_code = '123456789Text';
 //Random Code can be anything static, or you can generate it through //built-in random functions
 //The below url accepts AppName, AppInfo & SecretCode
